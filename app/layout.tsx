@@ -8,19 +8,19 @@ const manrope = Manrope({
 });
 
 export const metadata: Metadata = {
-  title: "InGate | A conexão inteligente",
-  description: "A InGate é a plataforma definitiva para a gestão e intermediação tecnológica de resgates veiculares, conectando Seguradoras e Especialistas em Guincho.",
+  title: "InGates | A conexão inteligente",
+  description: "A InGates é a plataforma definitiva para a gestão e intermediação tecnológica de resgates veiculares, conectando Seguradoras e Especialistas em Guincho.",
   openGraph: {
-    title: "InGate | A conexão inteligente",
+    title: "InGates | A conexão inteligente",
     description: "Plataforma definitiva para gestão de resgates veiculares",
-    url: "https://ingate.com.br",
-    siteName: "InGate",
+    url: "https://ingates.com.br",
+    siteName: "InGates",
     locale: "pt_BR",
     type: "website",
   },
   twitter: {
     card: "summary_large_image",
-    title: "InGate | A conexão inteligente",
+    title: "InGates | A conexão inteligente",
     description: "Plataforma definitiva para gestão de resgates veiculares",
   },
 };

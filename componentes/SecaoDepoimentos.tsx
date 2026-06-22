@@ -11,7 +11,7 @@ export default function SecaoDepoimentos() {
           <div className="flex flex-col rounded-2xl bg-white p-8 shadow-sm">
             <span className="material-symbols-outlined text-[#EE7718] text-4xl mb-6">format_quote</span>
             <p className="mb-8 text-ingate-gray text-lg leading-relaxed grow">
-              A InGate transformou a nossa operação. O módulo de &apos;Meus Guinchos&apos; e o chat direto com a seguradora facilitaram muito o nosso dia a dia na estrada.
+              A InGates transformou a nossa operação. O módulo de &apos;Meus Guinchos&apos; e o chat direto com a seguradora facilitaram muito o nosso dia a dia na estrada.
             </p>
             <div>
               <p className="font-bold text-ingate-black text-lg">Carlos Silva</p>

@@ -4,7 +4,7 @@ export default function SecaoEcossistema() {
       <div className="mx-auto max-w-7xl">
         <div className="text-center mb-16">
           <h2 className="text-ingate-dark text-3xl font-black leading-tight sm:text-4xl mb-4">
-            Ecossistema InGate
+            Ecossistema InGates
           </h2>
           <p className="text-ingate-gray text-lg">Soluções integradas sob medida para o seu negócio.</p>
         </div>

@@ -11,7 +11,7 @@ export default function SecaoFaq() {
           <div className="accordion-item relative overflow-hidden rounded-xl border border-ingate-medium bg-white">
             <input className="peer absolute inset-0 z-10 h-full w-full cursor-pointer opacity-0" name="faq-accordion-1" type="checkbox" />
             <div className="accordion-header flex items-center justify-between p-6">
-              <h3 className="text-lg font-bold text-ingate-black">O InGate realiza os serviços de guincho?</h3>
+              <h3 className="text-lg font-bold text-ingate-black">A InGates realiza os serviços de guincho?</h3>
               <div className="text-primary shrink-0 relative w-6 h-6 flex items-center justify-center">
                 <span className="material-symbols-outlined icon-plus text-2xl absolute">add</span>
                 <span className="material-symbols-outlined icon-minus text-2xl absolute">remove</span>
@@ -19,7 +19,7 @@ export default function SecaoFaq() {
             </div>
             <div className="accordion-content px-6 pb-6 pt-0">
               <p className="text-ingate-gray text-base leading-relaxed">
-                Não, o InGate é uma plataforma tecnológica que conecta seguradoras a prestadores de serviço.
+                Não, a InGates é uma plataforma tecnológica que conecta seguradoras a prestadores de serviço.
               </p>
             </div>
           </div>
